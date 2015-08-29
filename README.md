@@ -28,3 +28,28 @@ noder
 ## Connect page
 
 Open http://localhost:1337/
+
+## Upload changed
+
+### Add change:
+
+```
+git add .
+```
+or Delete file:
+
+```
+git rm [some file]
+```
+
+### Add comment
+
+```
+git commit -m "note..."
+```
+
+### Push
+
+```
+git push origin master
+```
